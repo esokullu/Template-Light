@@ -64,6 +64,10 @@ header.navbar {
     height: auto;
     line-height: 40px;
     margin-left: 20px;
+    padding-left: 60px;
+    background-image: url(https://avatars0.githubusercontent.com/u/23718594?v=5&s=50);
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
 }
 .navbar .navbar-brand small {
     font-size: 18px;
