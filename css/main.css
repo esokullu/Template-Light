@@ -68,6 +68,7 @@ header.navbar {
     background-image: url(https://avatars0.githubusercontent.com/u/23718594?v=5&s=50);
     background-repeat: no-repeat;
     background-size: 50px 50px;
+    background-position: left center;
 }
 .navbar .navbar-brand small {
     font-size: 18px;
