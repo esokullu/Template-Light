@@ -109,3 +109,12 @@ pre {
 pre code {
     border: none;
 }
+
+table { 
+    width: 100%;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid;
+}
