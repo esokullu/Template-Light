@@ -114,7 +114,7 @@ table {
     width: 100%;
 }
 
-td {
+td, th {
     padding: 5px;
     border: 1px solid;
 }
