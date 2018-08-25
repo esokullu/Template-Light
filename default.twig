@@ -56,6 +56,7 @@
                         <a href="https://github.com/phonetworks/website/edit/master/docs/{{ currentMenu }}.md"><i class="fa fa-pencil"></i> &nbsp;Improve this page</a>
                     </div>
                     {{ content|raw }}
+                    <graphjs-comments min-width="100%"></graphjs-comments>
                 </section>
 
             </div>
@@ -91,6 +92,10 @@
 
             ga('create', 'UA-104887486-1', 'auto');
             ga('send', 'pageview');
+        </script>
+        <script src="https://graphjs.com/v1/graph.js"></script>
+        <script>
+        GraphJS.init("16D58CF2-FD88-4A49-972B-6F60054BF023", {});
         </script>
 
     </body>
